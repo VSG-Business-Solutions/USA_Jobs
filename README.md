@@ -1,8 +1,7 @@
 # VSG Business Solutions Inc – Careers Portal
-# USA_Jobs
+# USA Job Openings
 
-Welcome to the official **Careers Page Repository** of  
-**VSG Business Solutions Inc**, a leading IT staffing and consulting firm headquartered in Hamilton, New Jersey.
+Welcome to the official **Careers Page Repository** of **VSG Business Solutions Inc**, a leading IT staffing and consulting firm headquartered in Hamilton, New Jersey.
 
 ---
 
