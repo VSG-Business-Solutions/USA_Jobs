@@ -7,5 +7,5 @@ Welcome to the official **Careers Page Repository** of **VSG Business Solutions 
 
 ## 🚀 Live Job Portal
 
-**You can view the live careers page by opening:**
+You can view the live careers page by opening:
 https://vsg-business-solutions.github.io/USA_Jobs/
